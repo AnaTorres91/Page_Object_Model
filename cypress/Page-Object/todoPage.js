@@ -23,7 +23,6 @@ export class TodoPage {
     
     }
 
-  
 }
 
 export const todoPage = new TodoPage()

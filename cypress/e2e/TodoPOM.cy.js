@@ -32,6 +32,7 @@ describe('to do', () => {
       todoPage.editItems()
       todoPage.checkAll()
       todoPage.clearCompleted()
-     
       
      })
+
+  
